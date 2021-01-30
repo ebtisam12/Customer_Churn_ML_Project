@@ -8,7 +8,7 @@
 
 ---
 
-### In this project we work on  [Customer Churn data set](https://github.com/gumdropsteve/intro_to_machine_learning/raw/main/day_05/data/churn_data.csv).
+### In this project work on  [Customer Churn data set](https://github.com/gumdropsteve/intro_to_machine_learning/raw/main/day_05/data/churn_data.csv). We applied what we learned as the first week in Machine Learning.
 
 
 
