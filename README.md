@@ -1,3 +1,4 @@
+
 # Customer_Churn_ML_Project
 
 ### Group members:
@@ -8,7 +9,9 @@
 
 ---
 
-### In this project we work on  [Customer Churn data set](https://github.com/gumdropsteve/intro_to_machine_learning/raw/main/day_05/data/churn_data.csv). We applied what we learned as the first week in Machine Learning.
+### In this project we work on  [Customer Churn data set](https://github.com/gumdropsteve/intro_to_machine_learning/raw/main/day_05/data/churn_data.csv).  We applied what we learned as the first week in Machine Learning.
+
+[Data Dictionary ](https://docs.google.com/document/d/1SxzoPHWxoLHx_kiPTZEzZOoda2chHbHLdMGAFsGIqCY/edit)
 
 
 
@@ -51,3 +54,4 @@ We noticed some null values and replace it, we extract Categorical features, we 
 - We noticed the most costumers have dependents don't stay in the company long because they payied more price, should on the company make more offers for this class.
 
 - Most of the Customer who leave the company were the ones who had a month to month contract, The company should focus on improve months to months contract to customer retention.
+
